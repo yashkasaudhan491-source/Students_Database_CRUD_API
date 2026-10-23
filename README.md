@@ -16,5 +16,5 @@ This is a Python backend application built with FastAPI and SQLite to manage stu
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-github-repo-url>
+   git clone <https://github.com/yashkasaudhan491-source/Students_Database_CRUD_API.git>
    cd <repository-folder>
